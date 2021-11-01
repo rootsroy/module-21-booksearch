@@ -2,9 +2,9 @@
 
 ## Description
 
-Book Search is a Google Books API powered search engine that was built with GraphQL and Apollo Server. All users can search books, and they may also save favorite books if they are logged in.
+Book Search is a Google Books API powered search engine builted with Apollo Server and GraphQL. Users can search books, and when they are logged in, also they can save favorite books.
 
-View the deployed page at [Book Search]( LINK TO HEROKU PAGE).
+View the deployed page at [Book Search](https://booksearchruth.herokuapp.com/).
 
 ## Contents
 
